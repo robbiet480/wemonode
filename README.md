@@ -1,4 +1,4 @@
 wemonode
 ========
 
-A Node framework for managing Belkin Wemo socket and sensor
+A Node.js framework for managing Belkin Wemo socket and sensor
