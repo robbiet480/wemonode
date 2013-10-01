@@ -1,0 +1,11 @@
+{
+  "name": "NodeWemoTest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node test.js"
+  },
+  "dependencies": {
+    "wemonode":"1.0.x"
+  }
+}
