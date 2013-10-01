@@ -3,8 +3,10 @@ wemonode
 
 A Node.js framework for managing Belkin Wemo socket and sensor
 
-```javascript
+
 Usage example:
+```javascript
+
 
 /* Requiring WemoNode module */
 var WemoNode = require('wemonode');
