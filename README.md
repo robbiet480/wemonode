@@ -3,6 +3,9 @@ wemonode
 
 A Node.js framework for managing Belkin Wemo socket and sensor
 
+IMPORTANT:
+Remember to change "upnpBindAddress" in wemonode_config.json file
+
 
 Usage example:
 ```javascript
