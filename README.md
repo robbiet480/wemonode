@@ -17,7 +17,10 @@ var WemoNode = require('wemonode');
 /* Getting an instance */
 var wemoNode = WemoNode.WemoNode();
 
-
+/* Setting bind address
+    You can also specify bind address inside wemonode_config.json file instead of calling this function
+ */
+wemoNode.setBindAddress("192.168.2.2");
 
 /* Listening to "device_found" event.
     WemoNode will fire this event every time a new device is detected.
